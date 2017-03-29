@@ -1,0 +1,44 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
+
+body {
+  background-color: black;
+  font-family: "Times New Roman";
+}
+
+h1 {
+  color: Red;
+  font-size: 50px;
+}
+
+p {
+  color: white;
+  font-style: italic;
+  font-size: 20px;
+}
+
+img {
+  padding: 20px;
+}
+
+.quotes {
+  width: 33%;
+  margin-right: auto;
+  margin-left: auto;
+  border-color: white;
+  border-style: solid;
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 20px;
+  height: auto;
+  color: white;
+  font-size: 30px;
+}
+
+.quote {
+  font-size: 30px;
+}
+
+.author {
+  font-size: 20px;
+  font-style: italic;
+}
